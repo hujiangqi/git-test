@@ -10,5 +10,6 @@ public class demo {
         System.out.println("hello word222 master");
         System.out.println("hello word222 master");
         System.out.println("hello word222 master ssh");
+         System.out.println("hello word222 pull");
     }
 }
