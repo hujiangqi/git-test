@@ -6,10 +6,6 @@ public class demo {
         System.out.println("hello word222");
         System.out.println("hello word222");
         System.out.println("hello word222");
-        System.out.println("hello word222");
-        System.out.println("hello word222 master");
-        System.out.println("hello word222 master");
-        System.out.println("hello word222 master ssh");
-        System.out.println("push");
+        System.out.println("hello push");
     }
 }
